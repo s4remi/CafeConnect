@@ -81,3 +81,5 @@ function MyDB() {
 }
 
 export const myDB = MyDB();
+
+// Hi I like that you are seprating your work from your teammate but it would be a good practice to have more meaningful name for variables and files.
