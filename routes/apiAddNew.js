@@ -69,3 +69,7 @@ router.delete("/delete-pending-restaurant/:id", async (req, res) => {
 });
 
 export default router;
+//Ali Saremi. review code:
+//it might ne better to have a good naming protocal for variables and functions, for instance I can see that you have "addnew" file but can't understand what
+//what this is for unless open it and read thee code. one thing more is about, making sure that we don't have the .DS_Store in our code and for doing that make sure you have this
+// folder in your .gitignore as well. but in negerall. great work. I realky liked your approach and making sure that every thing is organized
